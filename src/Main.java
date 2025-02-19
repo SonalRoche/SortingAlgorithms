@@ -3,9 +3,6 @@
 public class Main {
     public static void main(String[] args) {
 
-
-
-        //int[] arr = {2, 3, 7, 1, 3, 5, 3};
         int[] arr = {10, 6, 2, 3, 7, 1, 5, 3,9,4};
 
         Sort insertion = new InsertionSort();
